@@ -1,6 +1,6 @@
 # 動機
 
-Medium.com のブログ記事を [summpy(自分でPython3対応させたもの)](https://github.com/arkB/summpy) を用いて要約させてみたい。
+Medium.com のブログ記事を [summpy(自分でPython3対応させたもの)](https://github.com/arkB/summpy) を用いて要約させてみたいと考えました。
 
 （もともとは [内田樹のブログ記事](http://blog.tatsuru.com/) を要約したいという動機でしたが、著作権的にNGっぽかったので、自分で Medium.com に寄稿したブログ記事を要約する形で公表することにしました）
 
