@@ -9,7 +9,7 @@ Medium.com のブログ記事を [summpy(自分でPython3対応させたもの)]
 * [summpy(自分でPython3対応させたもの)](https://github.com/arkB/summpy) インストール済み
 * Jupyter Notebook環境で実行させます
 * Python 3.6
-* **日本語オンリー(Japanese Only!)です！**
+* **日本語オンリー (Japanese Only) です**
 
 ## 使い方
 
