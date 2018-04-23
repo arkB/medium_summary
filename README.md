@@ -1,4 +1,4 @@
-# 動機
+## 動機
 
 Medium.com のブログ記事を [summpy(自分でPython3対応させたもの)](https://github.com/arkB/summpy) を用いて要約させてみたいと考えました。
 
